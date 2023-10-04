@@ -38,7 +38,7 @@ export default function Adbanner() {
           target="_blank"
           className={`text-ldyellow`}
           onClick={handleClick.bind()}
-        >&nbsp;LaunchDarkly Academy</a>?
+        >&nbsp;LaunchDarkly Academy</a>
       </span>
     </div>
   );
