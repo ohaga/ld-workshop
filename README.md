@@ -1,3 +1,3 @@
-# LaunchDarkly DevRel Netlify Demo
+# LaunchDarkly DevRel Workshop Demo
 
-Basic demo running in Netlify - ensure you've updated the client-key in src/index.js 
+Basic demo - ensure you've updated the client-key in src/index.js
